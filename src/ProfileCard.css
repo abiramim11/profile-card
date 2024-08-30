@@ -1,11 +1,11 @@
-/* Center the profile card on the page */
+
 body {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f0f0f0; /* Optional: You can change the background color of the page */
+    background-color: #f0f0f0; 
   }
   
   .profile-card {
@@ -13,7 +13,7 @@ body {
     padding: 20px;
     border-radius: 10px;
     background-color: #fff;
-    background-image: url('C:\Users\mmoha\profile-card-react\src\assets\pic1.webp'); /* Add your custom background image here */
+    background-image: url('C:\Users\mmoha\profile-card-react\src\assets\pic1.webp'); 
     background-size: cover;
     background-position: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -25,7 +25,7 @@ body {
     height: 100px;
     border-radius: 50%;
     margin-bottom: 20px;
-    border: 2px solid #fff; /* Optional: Add a border around the profile image */
+    border: 2px solid #fff; 
   }
   
   .profile-name {
